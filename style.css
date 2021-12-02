@@ -5,7 +5,7 @@ html
 body 
 {
 
-  font-size: 2vw;
+  font-size:calc(12px + 1vw);
   animation: start 1s linear;
   margin: 0;
   background: no-repeat center/100% 100% url(https://www.ict-solutions-events.com/wp-content/uploads/2020/03/AdobeStock_100000042-e1563305717660-686x371-1.jpeg);
@@ -37,7 +37,7 @@ body
   padding: 30px;
   margin:10px;
   padding:10px;
-  flex: 200px;
+  flex: 500px;
   background:rgba(3,67,106, 0.5);
   border-radius:10%;
   transition: 0.3s;
