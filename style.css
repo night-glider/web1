@@ -5,7 +5,11 @@ html
 body 
 {
 
+<<<<<<< Updated upstream
   font-size: 2vw;
+=======
+  font-size:calc(12px + 2vw);
+>>>>>>> Stashed changes
   animation: start 1s linear;
   margin: 0;
   background: no-repeat center/100% 100% url(https://www.ict-solutions-events.com/wp-content/uploads/2020/03/AdobeStock_100000042-e1563305717660-686x371-1.jpeg);
@@ -35,7 +39,7 @@ body
 .title
 {
   padding: 30px;
-  margin:10px;
+  margin:30px;
   padding:10px;
   flex: 200px;
   background:rgba(3,67,106, 0.5);
@@ -49,7 +53,7 @@ body
 }
 .avatar 
 {
-  margin:10px;
+  margin:30px;
   border-radius:10% 10% 10% 10%;
   object-fit: cover;
   max-width:50%;
